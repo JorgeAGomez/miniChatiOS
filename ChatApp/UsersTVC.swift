@@ -48,9 +48,6 @@ class UsersTVC: UITableViewController {
       
     }
   
-  override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-      SampleData.shared.currentSender = SampleData.shared.senders[indexPath.row]
-  }
 
 
 }
