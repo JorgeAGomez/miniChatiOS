@@ -1,0 +1,15 @@
+PODS:
+  - MessageKit (0.10.1)
+  - SideMenu (3.1.4)
+
+DEPENDENCIES:
+  - MessageKit (~> 0.10)
+  - SideMenu (~> 3.1)
+
+SPEC CHECKSUMS:
+  MessageKit: 9fc8265cff91bfa62827471ea38f380a89ff537e
+  SideMenu: 99021e70b3f2eee65b5dd88e4274d09031b1221e
+
+PODFILE CHECKSUM: 57920358b901c9bd4ffcebcc7a7efa17b74d1a11
+
+COCOAPODS: 1.2.1
